@@ -25,7 +25,7 @@ Most of the educational projects are available at the repositories here with add
 
 I know, that I still need a lot to learn, however I feel ready to start working over commercial Java projects and open for full-time job proposals. 
 
-P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have been working as a PR manager, international projects manager and head of PR and advertising department for over 12 years.
+P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have been working as a PR manager, international projects manager and head of PR and advertising department for over 12 years, still I am sure it is the right time to start my IT carreer. 
 
 <!--
 **Frenchfan/Frenchfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
