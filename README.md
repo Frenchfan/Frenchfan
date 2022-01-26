@@ -19,7 +19,7 @@ Most of the educational projects are available at the repositories here with add
 - [Optional](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/optional)
 - [lambda](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
 - [stream](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/stream)
-- eductional CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
+- educational CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
 - [solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
 - network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
 
