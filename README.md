@@ -8,7 +8,7 @@ I have been coding Java for about a year (as of February 2022):
 - I have completed most of the levels of the online course **[JavaRush / CodeGym](https://codegym.cc/)** and started the online internship, developing Java Enterprise Online Project (Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery) - to be completed in April 2022. I have uploaded over 700 solved tasks (Java syntax, Java Core, collections, multithreading, streams, CRUD etc.) at [JRushTasks](https://github.com/Frenchfan/JRushTasks) repository.
 - In January 2022, I finished the "trainee" level at the **[job4j.ru](job4j.ru)**. This is an online Java-studying platform with over 2,500 students and 2,000 tasks. All of the tasks are reviewed by professional mentors, the course comprises oral exams. The "trainee" level includes basic syntax of Java, Git, Maven, Checkstyle, JaCoCo, jUnit, key design patterns, collections, lambda and stream. I am to continue the course to "junior" and "middle" levels going in depth with collections, multithreading, spring, servlets, SQL, JDBC, Hibernate (all these technologies I already know to some extent).
 
-Most of the educational projects are available at the repositories here with additional tests and comments, for example:
+Most of the educational projects are available at my Github repositories with additional tests and comments, for example:
 
 - [Arrays](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/array)
 - [Conditions](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/condition)
