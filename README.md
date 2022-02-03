@@ -10,22 +10,22 @@ I have been studying Java for about a year (as of February 2022):
 
 Most of the educational projects are available at the repositories here with additional tests and comments, for example:
 
-- [arrays](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/array)
-- [conditions](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/condition)
-- [loops](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/loop)
-- [collections](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
-- [comparators and sorting](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
-- [exceptions](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/ex)
+- [Arrays](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/array)
+- [Conditions](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/condition)
+- [Loops](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/loop)
+- [Collections](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
+- [Comparators and sorting](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
+- [Exceptions](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/ex)
 - [Optional](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/optional)
-- [lambda](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
-- [stream](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/stream)
-- educational CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
-- [solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
-- network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
+- [Lambda](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
+- [Stream](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/stream)
+- Educational CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
+- [Solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
+- Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
 
-I know, that I still need a lot to learn, however I feel ready to start working over commercial Java projects and open for full-time job proposals. My email - sumkin.gpb@gmail.com. 
+I am open for full-time job proposals. My email - sumkin.gpb@gmail.com. 
 
-P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have been working as a PR manager, international projects manager and head of PR and advertising department for over 12 years, still I am sure it is the right time to start my IT carreer. 
+P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have over 12 years of experience working as a PR manager, international projects manager and head of PR and advertising department at various industrial companies.  
 
 <!--
 **Frenchfan/Frenchfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
