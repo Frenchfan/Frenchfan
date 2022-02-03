@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Petr, I live in Moscow and now I am open for new projects in IT as Java developer. 
+I am Petr, I live in Moscow and now I am open for new projects in IT as Java developer. My email - sumkin.gpb@gmail.com. 
 
-I have been studying Java for about a year (as of February 2022):
+I have been coding Java for about a year (as of February 2022):
 
 - In July 2021, I finished the on-site course **"Java and Android applications"** at the educational center [Professional](https://eduprof.mos.ru/upload/programms/P34.pdf) under the government of Moscow
 - I have completed most of the levels of the online course **[JavaRush / CodeGym](https://codegym.cc/)** and started the online internship, developing Java Enterprise Online Project (Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery) - to be completed in April 2022. I have uploaded over 700 solved tasks (Java syntax, Java Core, collections, multithreading, streams, CRUD etc.) at [JRushTasks](https://github.com/Frenchfan/JRushTasks) repository.
@@ -22,8 +22,6 @@ Most of the educational projects are available at the repositories here with add
 - Educational CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
 - [Solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
 - Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
-
-I am open for full-time job proposals. My email - sumkin.gpb@gmail.com. 
 
 P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have over 12 years of experience working as a PR manager, international projects manager and head of PR and advertising department at various industrial companies.  
 
