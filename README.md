@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Petr, I live in Moscow and now I am open for new projects in IT as Java developer. My email - sumkin.gpb@gmail.com. 
+I am Petr, I am open for new projects in IT as Java developer. My email - sumkin.gpb@gmail.com. 
 
 I have been coding Java for about a year (as of February 2022):
 
