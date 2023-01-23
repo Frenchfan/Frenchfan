@@ -26,6 +26,7 @@ Most of the educational projects are available at my Github repositories with ad
 - Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
 - Python - https://github.com/Frenchfan/Python_Examples
 - C# - https://github.com/Frenchfan/C_Samples
+- Spring_Framework - 
 
 P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have over 12 years of experience working as a PR manager, international projects manager and head of PR and advertising department at various industrial companies.  
 
