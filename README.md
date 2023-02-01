@@ -11,19 +11,12 @@ I have been coding Java for about a year:
 - I have completed most of the levels of the online course **[JavaRush / CodeGym](https://codegym.cc/)** and started the online internship, developing Java Enterprise Online Project (Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery) - to be completed in April 2022. I have uploaded over 700 solved tasks (Java syntax, Java Core, collections, multithreading, streams, CRUD etc.) at [JRushTasks](https://github.com/Frenchfan/JRushTasks) repository.
 
 Most of the educational projects are available at my Github repositories with additional tests and comments, for example:
-
-- [Arrays](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/array)
-- [Conditions](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/condition)
-- [Loops](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/loop)
-- [Collections](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
-- [Comparators and sorting](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection)
-- [Exceptions](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/ex)
-- [Optional](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/optional)
-- [Lambda](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda)
-- [Stream API](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/stream)
-- CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
+- MVC Swing and Stream API (CRUD) - https://github.com/Frenchfan/Java_geeksamples/edit/main/src/main/java/OOPSem4/Homework4/Readme.md
+- Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx)
 - [Solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
-- Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx) 
+- CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
+
+- [Arrays](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/array), [Conditions](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/condition), [Loops](https://github.com/Frenchfan/job4j_elementary/tree/master/src/main/java/ru/job4j/loop), [Collections](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection), [Comparators and sorting](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/collection), [Exceptions](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/ex), [Optional](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/optional), [Lambda](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/lambda), [Stream API](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/stream), CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
 - Python - https://github.com/Frenchfan/Python_Examples
 - C# - https://github.com/Frenchfan/C_Samples
 - Spring_Framework - https://github.com/Frenchfan/Spring_study
