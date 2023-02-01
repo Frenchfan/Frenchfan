@@ -4,7 +4,7 @@ I am Petr, I am open for new projects in IT as Java developer. My email - sumkin
 
 I have been coding Java for about a year:
 
-- Since July 2022 I have been studying at GeekBrains platform - Frontend Developer (Javascript). My studies also include acquaintance with Python, C# and Java - see github (https://github.com/Frenchfan) for details
+- Since July 2022 I have been studying at GeekBrains platform. 
 - In November 2022 I obtained a diploma of SQL specialist by the Far-Eastern University in cooperation with stepik.org (I have e-certificates)
 - In 2022 I finished the "trainee" level at the **[job4j.ru](job4j.ru)**. This is an online Java-studying platform with over 2,500 students and 2,000 tasks. All of the tasks are reviewed by professional mentors, the course comprises oral exams. The "trainee" level includes basic syntax of Java, Git, Maven, Checkstyle, JaCoCo, jUnit, key design patterns, collections, lambda and stream. I have solved over 500 educational tasks. I am to continue the course to "junior" and "middle" levels going in depth with collections, multithreading, spring, servlets, SQL, JDBC, Hibernate (all these technologies I already know to some extent).
 - In July 2021, I finished the on-site course **"Java and Android applications"** at the educational center [Professional](https://eduprof.mos.ru/upload/programms/P34.pdf) under the government of Moscow
