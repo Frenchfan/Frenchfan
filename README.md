@@ -11,7 +11,7 @@ I have been coding Java for about a year:
 - In 2022 I finished the "trainee" level at the **[job4j.ru](job4j.ru)**. This is an online Java-studying platform with over 2,500 students and 2,000 tasks. All of the tasks are reviewed by professional mentors, the course comprises oral exams. The "trainee" level includes basic syntax of Java, Git, Maven, Checkstyle, JaCoCo, jUnit, key design patterns, collections, lambda and stream. I have solved over 500 educational tasks. I am to continue the course to "junior" and "middle" levels going in depth with collections, multithreading, spring, servlets, SQL, JDBC, Hibernate (all these technologies I already know to some extent).
 
 Most of the educational projects are available at my Github repositories with additional tests and comments, for example:
-- MVC Swing and Stream API (CRUD) - https://github.com/Frenchfan/Java_geeksamples/edit/main/src/main/java/OOPSem4/Homework4/Readme.md
+- MVC Swing and Stream API (CRUD) - [https://github.com/Frenchfan/Java_geeksamples/edit/main/src/main/java/OOPSem4/Homework4/Readme.md](https://github.com/Frenchfan/Java_geeksamples/blob/main/src/main/java/OOPSem4/Homework4/Readme.md)
 ![MainView](https://github.com/Frenchfan/Java_geeksamples/blob/main/src/main/java/OOPSem4/Homework4/Screenshots/MainView.png)
 - Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx)
 - [Solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
