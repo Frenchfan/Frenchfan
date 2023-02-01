@@ -12,6 +12,7 @@ I have been coding Java for about a year:
 
 Most of the educational projects are available at my Github repositories with additional tests and comments, for example:
 - MVC Swing and Stream API (CRUD) - https://github.com/Frenchfan/Java_geeksamples/edit/main/src/main/java/OOPSem4/Homework4/Readme.md
+![MainView](https://github.com/Frenchfan/Java_geeksamples/blob/main/src/main/java/OOPSem4/Homework4/Screenshots/MainView.png)
 - Network chat [application](https://github.com/Frenchfan/edu_0759/tree/master/Gui_chat_0759) (gui interface javafx)
 - [Solution](https://github.com/Frenchfan/HH_Prog_School) of the algorithmical tasks for the Headhunter.ru programming school admission (fall 2021) 
 - CRUD console application [Tracker](https://github.com/Frenchfan/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker) to create, read, update and delete a list of items with additional time stamps and search methods
