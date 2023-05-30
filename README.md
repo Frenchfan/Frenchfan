@@ -17,7 +17,7 @@ Here are some of my projects:
 - Unit tests (junit, hamcrest), Stream for sorting - https://github.com/Frenchfan/Java_geeksamples/blob/main/src/test/java/com/gridnine/testing/FlightsFilterTest.java
 - Python - https://github.com/Frenchfan/Python_Examples
 - C# - https://github.com/Frenchfan/C_Samples
-- Spring_Framework - https://github.com/Frenchfan/Spring_study
+- Spring_Framework - [Vacation](https://github.com/Frenchfan/NeoStudyVacation/tree/master)
 
 P.S. I have a diploma in financial management by the Higher School of Economics (Moscow, 2013) and a master's degree in political science (2007) with professional command of English and French. I have over 12 years of experience working as a PR manager, international projects manager and head of PR and advertising department at various industrial companies.  
 
