@@ -18,7 +18,7 @@ Here are some of my projects:
 - [Unit tests (junit, hamcrest), Stream for sorting](https://github.com/Frenchfan/Java_geeksamples/blob/main/src/test/java/com/gridnine/testing/FlightsFilterTest.java)
 - [Python](https://github.com/Frenchfan/Python_Examples)
 - [C#](https://github.com/Frenchfan/C_Samples)
-- [Spring Boot](https://github.com/Frenchfan/NeoStudyVacation/tree/master)
+- [Spring Boot](https://github.com/Frenchfan/NeoStudyVacation/tree/master) and REST API
 
 I adore working with data structuring and designing databases. Here is a sample db prepared for a commercial project:
 [DB Structure](https://github.com/Frenchfan/Titan/blob/master/src/main/resources/titan.pgerd.png)
