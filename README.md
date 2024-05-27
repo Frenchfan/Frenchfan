@@ -10,7 +10,7 @@ I have been coding Java for about a year:
 
 Here are some of my projects:
 - [Spring boot 3 + R2dbc Postgre (Reactive) + jwt + flyway](https://github.com/Frenchfan/jwt_postgres_webflux_flyway_base)  Quite a rare sample: flyway is used to create db structure as jpa is not available in reactive approach
-- [Kafka example](https://github.com/Frenchfan/HW2-Kafka))
+- [Kafka example](https://github.com/Frenchfan/HW2-Kafka)
 - [Spring Framework Postgre + RabbitMQ event sourcing](https://github.com/Frenchfan/Java_geeksamples/commit/5bce2cefd05b4bc88151febdd775ba2fc8d480e4)
 - [Spring boot + Spring Data project with Docker-compose configuration and DB scheme](https://github.com/Frenchfan/Titan/tree/master)
 - [JDBC Postgre + RabbitMQ event sourcing + serialization ( Jackson(JSON, ByteArrayStream))](https://github.com/Frenchfan/Java_geeksamples/commit/9d4f0f8d83f2c9dbe6ea09fdb175374361003f81)
